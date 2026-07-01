@@ -62,5 +62,3 @@ if score > best_score:
         json.dump(score, f)
 else:
     print(f"최고 기록은 {best_score}점입니다.")
-
-        
