@@ -4,3 +4,6 @@
 
 # .gitignore 자체는 포함
 !.gitignore
+
+# practice 폴더 허용
+!practice/
